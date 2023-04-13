@@ -1,3 +1,4 @@
+import { CompatRoute } from 'react-router-dom-v5-compat'
 import { render, screen } from '@testing-library/react'
 import Button from '../Button/Button'
 
